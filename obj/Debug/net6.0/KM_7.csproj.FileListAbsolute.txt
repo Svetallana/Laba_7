@@ -1,0 +1,17 @@
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.csproj.AssemblyReference.cache
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.AssemblyInfoInputs.cache
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.AssemblyInfo.cs
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.csproj.CoreCompileInputs.cache
+D:\UNIVER_ALL\3_курс\КМ\KM_7\bin\Debug\net6.0\KM_7.exe
+D:\UNIVER_ALL\3_курс\КМ\KM_7\bin\Debug\net6.0\KM_7.deps.json
+D:\UNIVER_ALL\3_курс\КМ\KM_7\bin\Debug\net6.0\KM_7.runtimeconfig.json
+D:\UNIVER_ALL\3_курс\КМ\KM_7\bin\Debug\net6.0\KM_7.dll
+D:\UNIVER_ALL\3_курс\КМ\KM_7\bin\Debug\net6.0\KM_7.pdb
+D:\UNIVER_ALL\3_курс\КМ\KM_7\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.csproj.CopyComplete
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.dll
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\refint\KM_7.dll
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.pdb
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\KM_7.genruntimeconfig.cache
+D:\UNIVER_ALL\3_курс\КМ\KM_7\obj\Debug\net6.0\ref\KM_7.dll
